@@ -14,13 +14,13 @@ The project is prepared to use SCSS but, if considered appropriate, you can chan
 ## Instructions
 
 1. Fork this repository under your own GitHub account.
-2. Clone the repository to your local machine to work on the test:
+2. Clone the repository to your local machine to work on the test.
 3. Create a new branch to work on.
 4. Solve the problem(s) described in the **Task** section.
    1. Install dependencies: `npm install`
    2. Run `npm run dev` to start the development server.
    3. Write your code.
-5. Push your changes to your fork:
+5. Push your changes to your fork.
 6. Submit a pull request (PR)
 
 ## Notes
