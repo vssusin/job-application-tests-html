@@ -1,0 +1,18 @@
+html {
+  height: 100%;
+}
+body {
+  font-family: 'Arial', sans-serif;
+  height: 100%;
+  margin: 0;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background: linear-gradient(#9CC4E4, #0A0E46);
+}
+
+$colordark: #66D9C2;
+$colorlight: #0A0E46;
+
+@import "header";
+@import "maintext";
+@import "footer";

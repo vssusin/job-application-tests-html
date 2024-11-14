@@ -1,0 +1,71 @@
+.highlight {
+  font-size: 3.5rem;
+  color: $colordark;
+  font-family: 'Arial', sans-serif;
+  font-weight: bold;
+}
+
+.cta-button {
+  display: block;
+  margin: auto;
+  margin-top: 1em;
+  background-color: $colordark;
+  color: $colorlight;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 1rem;
+  font-weight: bold;
+}
+
+.cta-button:hover {
+  background-color: #ffffff;
+  color: $colordark;
+}
+
+.main-text-1 {
+  /* Creiem en una era digital, on el consum tradicional i l’online es fusionen */
+
+  margin-top: 2em;
+
+  font-family: 'Georgia';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 50px;
+  line-height: 107%;
+  text-align: center;
+
+  /* Color 3 */
+  color: #FFFFFF;
+
+  /* Inside auto layout */
+  flex: none;
+  order: 0;
+  align-self: stretch;
+  flex-grow: 0;
+}
+
+.main-text-2 {
+
+  /* Connectant les companyies amb els seus clients com mai abans ho havien fet. */
+
+  margin-top: 1em;
+  max-width: 20em;
+
+  /* H2_Subtítol */
+  font-family: 'Arial';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 22px;
+  line-height: 29px;
+  text-align: center;
+
+  /* Color 3 */
+  color: #FFFFFF;
+
+  /* Inside auto layout */
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+}
